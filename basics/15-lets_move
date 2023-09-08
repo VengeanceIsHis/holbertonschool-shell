@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* . /root/tmp/u
+cd /root mv [[:upper:]]* . /root/tmp/u
