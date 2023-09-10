@@ -1,2 +1,2 @@
 #!/bin/bash45
-rm *~ /holbertonschool-shell/basics
+rm *~
