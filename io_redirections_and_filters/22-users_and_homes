@@ -1,2 +1,2 @@
 #!/bin/bash
-sort users | getent passwd | cat /etc/passwd
+sort | /etc/passwd
