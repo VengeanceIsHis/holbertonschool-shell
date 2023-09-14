@@ -1,2 +1,2 @@
 #!/bin/bash
-sort users | less /etc/passwd
+less /etc/passwd
