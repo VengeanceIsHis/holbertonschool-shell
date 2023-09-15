@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$NUM"
+echo number_format((float)$NUM, 2, '.', '');
