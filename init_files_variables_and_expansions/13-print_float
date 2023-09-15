@@ -1,2 +1,2 @@
 #!/bin/bash
-number=$(printf "%.2f" $NUM) |echo $number
+$number=$(printf "%.2f" $NUM) |echo $number
