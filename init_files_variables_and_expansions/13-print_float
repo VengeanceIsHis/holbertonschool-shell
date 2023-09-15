@@ -1,2 +1,2 @@
 #!/bin/bash
-echo round($NUM, 2)
+number=$(printf "%.2f" $NUM) |echo $number
