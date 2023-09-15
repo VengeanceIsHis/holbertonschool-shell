@@ -1,2 +1,2 @@
 #!/bin/bash
-getname(){ BEST=School}
+BEST="School"
