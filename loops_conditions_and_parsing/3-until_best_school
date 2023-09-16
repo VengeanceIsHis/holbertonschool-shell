@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Until bash loop
 count=0
-until [ $=10 ]
+until [ $count=10 ]
 do
 echo "Best School"
 (( count++ ))
