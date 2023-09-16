@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #Bash while loop
-i=10
 while [ True ]
 do echo "Best School"
    if \n=10
