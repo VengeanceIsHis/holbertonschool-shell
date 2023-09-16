@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Bash while loop
-while [ True ]
+while [_+10]
 do echo "Best School"
-   if \n=10
+   if _<11
       break
    done
