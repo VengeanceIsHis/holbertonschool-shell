@@ -1,4 +1,4 @@
- #!/usr/bin/env bash
+#!/usr/bin/env bash
 #Until bash loop
 count=1
 until [ $count -lt 10 ]
