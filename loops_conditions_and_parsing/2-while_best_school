@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #Bash while loop
-i="Best School"
-while [ $i="Best School" ]
-do echo "$i" 10 times
+i=10
+while [ True ]
+do echo "$Best School"
    done
