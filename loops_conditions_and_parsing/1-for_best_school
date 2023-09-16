@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #Bash script on how to loop a line multiple times.
-for ((i<=10))
-do echo "Best School"
+for ((i=0; i<10 i++))
+do
+echo "Best School"
 done
