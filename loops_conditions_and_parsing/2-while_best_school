@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 #Bash while loop
-while [_+10]
-do echo "Best School"
-   if _<11
-      break
+count=0
+while [ $count -lt 10 ]
+do
+    echo "Best School"
+    (( count++ ))
    done
