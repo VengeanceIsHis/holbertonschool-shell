@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #Bash script on how to loop a line multiple times.
-for i in {1..10}
-do echo "Best School" "$i"
+for _ in {1..10}
+do echo "Best School"
 done
