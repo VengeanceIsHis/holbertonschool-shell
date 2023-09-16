@@ -2,5 +2,7 @@
 #Bash while loop
 i=10
 while [ True ]
-do echo "$Best School"
+do echo "Best School"
+   if \n=10
+      break
    done
