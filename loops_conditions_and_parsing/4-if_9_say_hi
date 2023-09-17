@@ -7,5 +7,6 @@ do
     (( $count++ ))
     if [ $count -eq 9 ]
 	 
-then    echo "Hi"
-done
+    then
+	echo "Hi"
+	done
