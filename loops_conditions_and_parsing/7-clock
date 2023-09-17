@@ -4,7 +4,7 @@
 i=0
 while [ $i -le 12 ]
 do
-    echo "Hour: $Hour"
+    echo "Hour: $i"
     minute=1
     while [ $minute -le 59 ]
     do echo "$minute"
