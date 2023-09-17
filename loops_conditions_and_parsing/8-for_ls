@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#displaying contents of current directory with just the name after dash
+i=1
+for i in [1]
+do
+    ls | tr-d "[:digit:]" "-"

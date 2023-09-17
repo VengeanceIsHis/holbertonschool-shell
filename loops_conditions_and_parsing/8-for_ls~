@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#displaying contents of current directory with just the name after dash
+for _ in
