@@ -3,5 +3,5 @@
 
 for line in $(ls);
 do
-   echo $line | tr -d "[:digit:]" "-";
+   echo "$line" | tr -d "[:digit:]" "-";
 done
