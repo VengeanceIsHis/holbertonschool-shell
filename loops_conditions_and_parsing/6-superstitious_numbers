@@ -3,10 +3,13 @@
 count=1
 while ($count <= 20)
 do
-    if [ $count -eq 4 ]
-    printf "4\nbad luck from china\n"
     echo "$count"
-    ((count++))
+    case $count in
+	"4" echo "bad luck from China";;
+	"9" echo "bad luck from Japan";;
+	"17" echo "bad luck from Italy";;
+    esac
+	((count++))
     done
     
 
