@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Bash script for displaying numbers 1 to 100 while changing numbers to certain phrases if they are
+#multiples of 3 an/or 5.
+i=1
+while [ $i -le 100 ]
+do
+if 
