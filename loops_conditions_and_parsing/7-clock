@@ -12,5 +12,5 @@ minute=1
     do
 	echo "$minute"
        (( minute++ ))
-       
-		  done
+        done
+done
