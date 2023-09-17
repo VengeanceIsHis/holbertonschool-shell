@@ -2,7 +2,10 @@
 #Bash script that displays numbers from 1-20
 count=1
 while ($count <= 20)
-    do echo "$count"
+do
+    if [ $count -eq 4 ]
+    printf "4\nbad luck from china\n"
+    echo "$count"
     ((count++))
     done
     
