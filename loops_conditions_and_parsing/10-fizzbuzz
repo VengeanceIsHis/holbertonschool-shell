@@ -12,4 +12,5 @@ do
 	      then echo "Buzz"
 	      else echo "$i"
 		   ((i++))
+fi
 done
