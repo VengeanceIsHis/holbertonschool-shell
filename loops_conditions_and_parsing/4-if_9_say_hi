@@ -7,4 +7,3 @@ do
        then echo "Hi"
     else echo "Best School"
 	 (( $count++ ))
-done
