@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#Creating a clock representation
+
+i=0
+e=1
+while [ $i -le 12 ]
+do
+    case
+       while [ $e -le 59 ]
+	     "0") echo "$e"
+		  esac
+		  ((i++))
+		  ((e++))
+		  done
