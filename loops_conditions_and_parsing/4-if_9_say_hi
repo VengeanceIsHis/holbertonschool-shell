@@ -10,4 +10,4 @@ do
 	echo "Best School"
        fi
 	 (( $count+1 ))
-	 done
+	 exit
