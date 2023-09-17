@@ -4,3 +4,4 @@ i=1
 for i in [1]
 do
     ls | tr-d "[:digit:]" "-"
+done
