@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #displaying contents of current directory with just the name after dash
 
-for line in $(ls)
+for line in $(ls);
 do
    echo $line | tr -d "[:digit:]" "-";
 done
