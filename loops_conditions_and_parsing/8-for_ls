@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 #displaying contents of current directory with just the name after dash
-
-for line in $(ls);
+l=$(ls)
+for i in $l;
+	 
 do
-   echo "$line" | tr -d "[:digit:]" "-";
+   echo "$i" | cut -d '-' -f2
 done
