@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Loop for displaying info for a file if it exists
+if 
