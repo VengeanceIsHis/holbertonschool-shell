@@ -4,8 +4,8 @@
 count=0
 while [ $count -lt 10 ]
 do
-    if [ $count -eq 9 ]
-       then echo "Best School" \n "Hi"
+    if [ $count -eq 8 ]
+       then printf "Best School\nHi\n"
     else
 	echo "Best School"
        fi
