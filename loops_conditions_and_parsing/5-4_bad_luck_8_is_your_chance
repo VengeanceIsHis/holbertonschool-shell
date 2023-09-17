@@ -6,7 +6,7 @@ do
 if [ $count -eq 3 ]
 then printf "Best School\nbad luck\n"
 elif [ $count -eq 7 ]
-then print f "Best School\ngood luck\n"
+then printf "Best School\ngood luck\n"
 else echo "Best School"
 fi
 ((count++))
