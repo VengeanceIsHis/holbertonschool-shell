@@ -5,7 +5,7 @@ while [ $count -lt 10 ]
 do
     echo "Best School"
     (( $count++ ))
-    if [ $count= 9 ]
-       
-    echo "Hi" \n
+    if [ $count -eq 9 ]
+	 
+then    echo "Hi" \n
 done
