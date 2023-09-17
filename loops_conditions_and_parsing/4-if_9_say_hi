@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #Printing Best School 10 times while on the 9th displays Hi on a new line
 
-count=0
-while [ $count -lt 10 ]
+count=1
+while [ $count -le 10 ]
 do
     if [ $count -eq 8 ]
        then printf "Best School\nHi\n"
